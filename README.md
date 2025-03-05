@@ -15,7 +15,11 @@
   </picture>
 
   <!-- for beauty 留个空行好看点 -->
-
+  
+  <div>
+    <a href="https://wechat.guoqi.dev"><img src="[https://img.shields.io/badge/WeChat-微信-07c160](https://github.com/gongzihang/gongzihang/blob/main/assets/image/wechat.png)" /></a>&emsp;
+    <a href="https://space.bilibili.com/448488855/"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
+  </div>
 
 <!--
 **gongzihang/gongzihang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
