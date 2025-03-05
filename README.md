@@ -36,7 +36,7 @@
 <img align="right" width="150" src="https://github.com/gongzihang/gongzihang/blob/main/assets/image/photo.jpg" />
 
 
-<p>&emsp;&emsp;嗨，你好，我是**龚仔航**。热爱编程、篮球、旅行。</p>
+<p>&emsp;&emsp;嗨，你好，我是 <strong>「龚仔航」</strong>。热爱编程、篮球、旅行。</p>
 <p>&emsp;&emsp;热爱计算机科学和 IT 互联网事业，希望能成为一名优秀的开发者。</p>
 <p>&emsp;&emsp;「保持热爱，奔赴山海」</p>
 <p>&emsp;&emsp;<strong>Keep Passion,Chase Horizons.</strong></p>
