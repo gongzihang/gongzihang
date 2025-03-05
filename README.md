@@ -23,7 +23,7 @@
     <img src="https://komarev.com/ghpvc/?username=gongzihang&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
   </div>
 
-  [![Email](https://img.shields.io/badge/📧-your_email@example.com-important?logo=gmail)](mailto:your-email@example.com)
+  [![Email](https://img.shields.io/badge/your_email@example.com-important?logo=gmail)](mailto:your-email@example.com)
   
 </div>
 
