@@ -3,7 +3,7 @@
   <!-- dynamic typing effect 动态打字效果 -->
   <div>
     <a href="https://blog.sunguoqi.com/">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);小龚同学祝您今天愉快!&center=true&size=27" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);祝您天天愉快!&center=true&size=27" />
     </a>
   </div>
 
@@ -23,6 +23,22 @@
     <a href=""><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
   </div>
 
+#  🙋 Hello
+
+<table>
+  
+<tr><td>
+
+### 🤺 About Me
+
+<p>&emsp;&emsp;嗨，你好，我是龚仔航。热爱编程、篮球、旅行。</p>
+<p>&emsp;&emsp;热爱计算机科学和 IT 互联网事业，希望能成为一名优秀的开发者。</p>
+<p>&emsp;&emsp;「保持热爱，奔赴山海」</p>
+<p>&emsp;&emsp;<strong>Keep Passion,Chase Horizons..</strong></p>
+
+</td></tr>
+
+<tr><td>
 <!--
 **gongzihang/gongzihang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
