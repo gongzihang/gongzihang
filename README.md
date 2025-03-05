@@ -51,8 +51,13 @@
 
 <img align="right" width="88" src="https://github.com/gongzihang/gongzihang/blob/main/assets/image/hit.png" />
 
-- [基于Moe One-Step Diffusion 的可持续学习的图像重建任务] &emsp; 📌 2024-03-04 —— 2024-08-28
-
+- [**基于Moe One-Step Diffusion 的可持续学习的图像重建任务**] &emsp; 📌 2024-07-04 —— 2024-12-28
+  - 指导老师： 陈勇勇-哈工大（深圳）计算机科学与技术学院副教授
+  - 研究内容：参与了一项图像重建与质量提升的研究项目，旨在利用扩散模型**Diffusion**的生成能力解决传统基于
+Transformer的图像重建方法在图像质量和泛化能力方面的局限性。
+  - 个人工作： 前沿性调研、模型搭建、代码实验
+ 
+  
 </td></tr>
 </table>
 
