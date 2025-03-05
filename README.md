@@ -18,6 +18,8 @@
   
   <div>
     <a href="https://picture.gptkong.com/20250305/1637b930a5f8ec4d039cab61f9274acd99.png"><img src="https://img.shields.io/badge/WeChat-微信-07c160" /></a>&emsp;
+    <!-- visitor -->
+    <img src="https://komarev.com/ghpvc/?username=gongzihang&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
     <a href="https://space.bilibili.com/448488855/"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
   </div>
 
