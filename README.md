@@ -45,6 +45,13 @@
 
 </td></tr>
 
+<tr><td>
+
+### 🏢 Research Experience
+
+- [基于Moe One-Step Diffusion 的可持续学习的图像重建任务] &emsp; 📌 2024-03-04 —— 2024-08-28
+
+</td></tr>
 </table>
 
 <!--
