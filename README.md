@@ -25,8 +25,7 @@
 
   [![Gmail](https://img.shields.io/badge/Gmail-gongzihang0201%40gmail.com-red?logo=gmail&logoColor=white)](mailto:gongzihang0201@gmail.com)
   [![QQ邮箱](https://img.shields.io/badge/QQ%20Mail-2320260384%40qq.com-blue?logo=tencentqq&logoColor=white)](mailto:2320260384@qq.com)
-
-  [📧 Gmail](mailto:gongzihang0201@gmail.com) | [📨 QQ Mail](mailto:2320260384@qq.com)
+  [![QQ邮箱](https://img.shields.io/badge/QQ%20Mail-2320260384%40qq.com-blue?logo=qq&logoColor=white)](mailto:2320260384@qq.com)
   
 </div>
 
