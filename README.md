@@ -30,9 +30,11 @@
   
 <tr><td>
 
--------------------------------------------------------------------------------------------------------------------------------#
+-----------------------------------------------------------------------------------------------------------------------------------------------------------_
 
 ### 🤺 About Me
+
+<img align="right" width="88" src="https://github.com/gongzihang/gongzihang/blob/main/assets/image/photo.jpg" />
 
 
 <p>&emsp;&emsp;嗨，你好，我是龚仔航。热爱编程、篮球、旅行。</p>
@@ -40,7 +42,6 @@
 <p>&emsp;&emsp;「保持热爱，奔赴山海」</p>
 <p>&emsp;&emsp;<strong>Keep Passion,Chase Horizons.</strong></p>
 <p>&emsp;&emsp;<strong>We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
-<img align="right" width="88" src="https://github.com/gongzihang/gongzihang/blob/main/assets/image/photo.jpg" />
 
 
 </td></tr>
