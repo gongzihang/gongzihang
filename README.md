@@ -23,7 +23,8 @@
     <img src="https://komarev.com/ghpvc/?username=gongzihang&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
   </div>
 
-  [![Email](https://img.shields.io/badge/your_email@example.com-important?logo=gmail)](mailto:your-email@example.com)
+  [![Gmail](https://img.shields.io/badge/Gmail-gongzihang0201%40gmail.com-red?logo=gmail&logoColor=white)](mailto:gongzihang0201@gmail.com)
+  [![QQ邮箱](https://img.shields.io/badge/QQ%20Mail-2320260384%40qq.com-blue?logo=tencentqq&logoColor=white)](mailto:2320260384@qq.com)
   
 </div>
 
