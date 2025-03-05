@@ -30,7 +30,6 @@
   
 <tr><td>
 
------------------------------------------------------------------✨✨✨----------------------------------------------------------------------
 
 ### 🤺 About Me
 
@@ -49,11 +48,12 @@
 
 ### 🏢 Research Experience
 
-<img align="right" width="100" src="https://github.com/gongzihang/gongzihang/blob/main/assets/image/hit.png" />
 
 - [**基于Moe One-Step Diffusion 的可持续学习的图像重建任务**] &emsp; 📌 2024-07-04 —— 2024-12-28
   
   - 指导老师： 陈勇勇 - 哈工大（深圳）计算机科学与技术学院 — 副教授
+<img align="right" width="100" src="https://github.com/gongzihang/gongzihang/blob/main/assets/image/hit.png" />
+ 
   - 研究内容：参与了一项图像重建与质量提升的研究项目，旨在利用扩散模型**Diffusion**的生成能力解决传统基于Transformer的图像重建方法在图像质量和泛化能力方面的局限性。同时利用Moe混合专家模型以及one-step蒸馏技术实现快速推理、高可扩散性的Moe One-Step Diffusion模型。
   - 研究方向：Diffusion扩散模型、图像复原、 混合专家模型
   - 个人贡献： 前沿性调研、模型搭建、代码实现
