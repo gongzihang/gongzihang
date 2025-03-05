@@ -17,9 +17,9 @@
   <!-- for beauty 留个空行好看点 -->
   
   <div>
-    <a href="https://picture.gptkong.com/20250305/1637b930a5f8ec4d039cab61f9274acd99.png"><img src="https://img.shields.io/badge/WeChat-微信-07c160" /></a>&emsp;
+    <a href="https://files.catbox.moe/e0rr6q.png"><img src="https://img.shields.io/badge/WeChat-微信-07c160" /></a>&emsp;
     <!-- visitor -->
-    <a href="https://github.com/gongzihang/gongzihang/blob/main/assets/image/RED.png"><img src="https://img.shields.io/badge/RED-%E5%B0%8F%E7%BA%A2%E4%B9%A6-red" /></a>&emsp;
+    <a href="https://files.catbox.moe/nr64d9.png"><img src="https://img.shields.io/badge/RED-%E5%B0%8F%E7%BA%A2%E4%B9%A6-red" /></a>&emsp;
     <img src="https://komarev.com/ghpvc/?username=gongzihang&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
   </div>
 
