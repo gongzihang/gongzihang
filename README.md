@@ -49,7 +49,7 @@
 ### 🏢 Research Experience
 
 
-- [**基于Moe One-Step Diffusion 的可持续学习的图像重建任务**] &emsp; 📌 2024-07-04 —— 2024-12-28
+- 🔭 [**基于Moe One-Step Diffusion 的可持续学习的图像重建任务**] &emsp; 📌 2024-07-04 —— 2024-12-28
   <img align="right" width="120" src="https://github.com/gongzihang/gongzihang/blob/main/assets/image/hit.png" />
   
   - 指导老师： 陈勇勇 - 哈工大（深圳）计算机科学与技术学院 — 副教授
@@ -58,7 +58,7 @@
   - 个人贡献： 前沿性调研、模型搭建、代码实现
 
 
--[PRE-Mamba:Point-based Event Camera Deraining with Multi-Scale State Space Model] &emsp; 📌 2025-01-03 —— 至今
+- 🔭 [PRE-Mamba:Point-based Event Camera Deraining with Multi-Scale State Space Model] &emsp; 📌 2025-01-03 —— 至今
   <img align="right" width="100" src="https://github.com/gongzihang/gongzihang/blob/main/assets/image/Tsinghua_University_Logo.svg.png" />
   
   - 指导老师： 陈鑫磊 - 清华大学深圳国际研究生院 - 副教授
@@ -74,7 +74,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+-  I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
