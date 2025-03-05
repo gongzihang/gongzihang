@@ -49,15 +49,24 @@
 
 ### 🏢 Research Experience
 
-<img align="right" width="88" src="https://github.com/gongzihang/gongzihang/blob/main/assets/image/hit.png" />
+<img align="right" width="100" src="https://github.com/gongzihang/gongzihang/blob/main/assets/image/hit.png" />
 
 - [**基于Moe One-Step Diffusion 的可持续学习的图像重建任务**] &emsp; 📌 2024-07-04 —— 2024-12-28
-  - 指导老师： 陈勇勇-哈工大（深圳）计算机科学与技术学院副教授
-  - 研究内容：参与了一项图像重建与质量提升的研究项目，旨在利用扩散模型**Diffusion**的生成能力解决传统基于
-Transformer的图像重建方法在图像质量和泛化能力方面的局限性。
-  - 个人工作： 前沿性调研、模型搭建、代码实验
- 
   
+  - 指导老师： 陈勇勇 - 哈工大（深圳）计算机科学与技术学院 — 副教授
+  - 研究内容：参与了一项图像重建与质量提升的研究项目，旨在利用扩散模型**Diffusion**的生成能力解决传统基于Transformer的图像重建方法在图像质量和泛化能力方面的局限性。同时利用Moe混合专家模型以及one-step蒸馏技术实现快速推理、高可扩散性的Moe One-Step Diffusion模型。
+  - 研究方向：Diffusion扩散模型、图像复原、 混合专家模型
+  - 个人贡献： 前沿性调研、模型搭建、代码实现
+
+<img align="right" width="100" src="https://github.com/gongzihang/gongzihang/blob/main/assets/image/Tsinghua_University_Logo.svg.png" />
+
+-[PRE-Mamba:Point-based Event Camera Deraining with Multi-Scale State Space Model] &emsp; 📌 2025-01-03 —— 至今
+
+  - 指导老师： 陈鑫磊 - 清华大学深圳国际研究生院 - 副教授
+  - 研究内容： 提出一种基于点云的高效事件相机去雨框架，突破现有方法在时间精度、去雨效果与计算效率间的权衡。创新性地构建双时间尺度的4D事件云表征，设计时空解耦融合模块(STDF)实现浅层特征交互，并开发多尺度状态空间模型(MS3M)以线性复杂度捕捉雨雪动态。
+  - 研究方向：  Derain, Event Camera, State space models
+  - 个人贡献： 模型搭建、代码实现、消融实验
+  - 项目成果： 预计投稿 [ICCV - 2025]
 </td></tr>
 </table>
 
