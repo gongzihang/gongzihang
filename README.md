@@ -59,9 +59,9 @@
 
 
 -[PRE-Mamba:Point-based Event Camera Deraining with Multi-Scale State Space Model] &emsp; 📌 2025-01-03 —— 至今
+  <img align="right" width="100" src="https://github.com/gongzihang/gongzihang/blob/main/assets/image/Tsinghua_University_Logo.svg.png" />
   
   - 指导老师： 陈鑫磊 - 清华大学深圳国际研究生院 - 副教授
-  <img align="right" width="100" src="https://github.com/gongzihang/gongzihang/blob/main/assets/image/Tsinghua_University_Logo.svg.png" />
   - 研究内容： 提出一种基于点云的高效事件相机去雨框架，突破现有方法在时间精度、去雨效果与计算效率间的权衡。创新性地构建双时间尺度的4D事件云表征，设计时空解耦融合模块(STDF)实现浅层特征交互，并开发多尺度状态空间模型(MS3M)以线性复杂度捕捉雨雪动态。
   - 研究方向：  Derain, Event Camera, State space models
   - 个人贡献： 模型搭建、代码实现、消融实验
