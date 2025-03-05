@@ -26,6 +26,30 @@
 
 #  🙋 Hello
 
+<table style="width: 100%; border-collapse: collapse; background: #f8f9fa; border-radius: 8px;">
+  <tr>
+    <td style="padding: 20px;">
+      <!-- 使用Flex布局容器 -->
+      <div style="display: flex; gap: 30px; align-items: center;">
+        <!-- 文字区域（左侧） -->
+        <div style="flex: 1;"> 
+          <h3 style="margin-top: 0;">🤺 About Me</h3>
+          <p>嗨，你好，我是龚仔航。热爱编程、篮球、旅行。</p>
+          <p>热爱计算机科学和 IT 互联网事业，希望能成为一名优秀的开发者。</p>
+          <p>「保持热爱，奔赴山海」</p>
+          <p><strong>Keep Passion, Chase Horizons..</strong></p>
+        </div>
+        
+        <!-- 图片区域（右侧） -->
+        <img 
+          style="max-width: 150px; height: auto; border-radius: 8px;"
+          src="https://github.com/gongzihang/gongzihang/blob/main/assets/image/photo.jpg" 
+        />
+      </div>
+    </td>
+  </tr>
+</table>
+
 <table style="width: 100%;">
   
 <tr><td>
