@@ -37,7 +37,7 @@
 
 ### 🤺 About Me
 
-<img align="right" width="150" src="https://github.com/gongzihang/gongzihang/blob/main/assets/image/photo.jpg" />
+<img align="right" width="150" src="https://github.com/gongzihang/gongzihang/blob/main/assets/image/photo.png" />
 
 
 <p>&emsp;&emsp;嗨，你好，我是 <strong>「龚仔航」</strong>。热爱编程、篮球、旅行。</p>
