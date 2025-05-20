@@ -40,30 +40,12 @@
     <p><strong>———— Keep Passion, Chase Horizons.</strong></p>
   </div>
 
-   <!-- 右侧头像 -->
+   <!-- 右侧头像 
   <div style="flex-shrink: 0; width: 150px;">
     <img src="https://github.com/gongzihang/gongzihang/blob/main/assets/image/photo.png" alt="头像" width="150" style="border-radius: 10px;" />
-  </div>
+  </div>-->
     
 </div>
-
-<table>
-  <tr>
-    <!-- 左侧文字内容 -->
-    <td style="vertical-align: top; padding-right: 20px;">
-      <h3>🤺 About Me</h3>
-      <p>嗨，你好，我是 <strong>「龚仔航」</strong>。热爱编程、篮球、旅行。</p>
-      <p>热爱计算机科学和 IT 互联网事业，希望能成为一名优秀的开发者。</p>
-      <p>「保持热爱，奔赴山海」</p>
-      <p><strong>———— Keep Passion, Chase Horizons.</strong></p>
-    </td>
-
-    <!-- 右侧头像 -->
-    <td style="vertical-align: top;">
-      <img src="https://github.com/gongzihang/gongzihang/blob/main/assets/image/photo.png" width="150" style="border-radius: 10px;" alt="头像"/>
-    </td>
-  </tr>
-</table>
 
 <!--
 <table style="width: 100%;">
