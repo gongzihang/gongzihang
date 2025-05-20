@@ -34,8 +34,7 @@
 <!--<table style="width: 100%;">-->
 <table style="width: 100%; max-width: 100%; border-collapse: collapse; margin: 0; padding: 0;">
 <tr>
-<td style="width: 100%; height: 200px; border: none; background-color: transparent;">
-      <div style="width: 100%; height: 100%;"></div>
+<td>
 
 
 ### 🤺 About Me
