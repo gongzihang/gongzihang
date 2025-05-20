@@ -42,7 +42,7 @@
 
    <!-- 右侧头像 -->
   <div style="flex-shrink: 0; width: 150px;">
-    <img src="https://github.com/gongzihang/gongzihang/blob/main/assets/image/photo.png" alt="头像" width="width: 100%; height: auto; border-radius: 8px;" />
+    <img src="https://github.com/gongzihang/gongzihang/blob/main/assets/image/photo.png" alt="头像" width="width: 10%; height: auto; border-radius: 8px;" />
   </div>
     
 </div>
