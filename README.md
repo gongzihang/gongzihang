@@ -28,6 +28,8 @@
   
 </div>
 
+#  🙋 Hello
+******
 <div style="display: flex; align-items: flex-start; justify-content: space-between; max-width: 100%;">
 
   <!-- 左侧文字部分 -->
@@ -39,14 +41,9 @@
     <p><strong>———— Keep Passion, Chase Horizons.</strong></p>
   </div>
 
-  <!-- 右侧头像 -->
-  <div style="flex-shrink: 0; width: 150px;">
-    <img src="https://github.com/gongzihang/gongzihang/blob/main/assets/image/photo.png" alt="头像" width="150" style="border-radius: 10px;" />
-  </div>
-
 </div>
 
-#  🙋 Hello
+
 
 <table style="width: 100%;">
 <tr>
