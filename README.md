@@ -41,8 +41,8 @@
   </div>
 
    <!-- 右侧头像 -->
-  <div style="flex-shrink: 1">
-    <img src="https://github.com/gongzihang/gongzihang/blob/main/assets/image/photo.png" alt="头像" width="width: 30%; height: auto; border-radius: 8px;" />
+  <div style="flex-shrink: 0; width: 150px;">
+    <img src="https://github.com/gongzihang/gongzihang/blob/main/assets/image/photo.png" alt="头像" width="150" style="border-radius: 10px;" />
   </div>
     
 </div>
