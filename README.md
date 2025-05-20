@@ -28,19 +28,21 @@
   
 </div>
 
-<div style="width: 100%; display: flex; justify-content: space-between; align-items: flex-start;">
-  <div style="flex: 1;">
-    <h3>🤺 About Me</h3>
-    <p>嗨，你好，我是 <strong>「龚仔航」</strong>。热爱编程、篮球、旅行。</p>
-    <p>热爱计算机科学和 IT 互联网事业，希望能成为一名优秀的开发者。</p>
-    <p>「保持热爱，奔赴山海」</p>
-    <p><strong>—— Keep Passion, Chase Horizons.</strong></p>
-  </div>
+<table style="width: 100%; table-layout: fixed;">
+  <tr>
+    <td style="vertical-align: top;">
+      <h3>🤺 About Me</h3>
+      <p>嗨，你好，我是 <strong>「龚仔航」</strong>。热爱编程、篮球、旅行。</p>
+      <p>热爱计算机科学和 IT 互联网事业，希望能成为一名优秀的开发者。</p>
+      <p>「保持热爱，奔赴山海」</p>
+      <p><strong>—— Keep Passion, Chase Horizons.</strong></p>
+    </td>
+    <td style="width: 150px; text-align: right;">
+      <img width="150" src="https://github.com/gongzihang/gongzihang/blob/main/assets/image/photo.png" />
+    </td>
+  </tr>
+</table>
 
-  <div style="margin-left: 20px;">
-    <img width="150" src="https://github.com/gongzihang/gongzihang/blob/main/assets/image/photo.png" />
-  </div>
-</div>
 
 
 #  🙋 Hello
