@@ -29,7 +29,6 @@
 </div>
 
 #  🙋 Hello
-******
 <div style="display: flex; align-items: flex-start; justify-content: space-between; max-width: 100%;">
 
   <!-- 左侧文字部分 -->
@@ -44,7 +43,7 @@
 </div>
 
 
-
+<!--
 <table style="width: 100%;">
 <tr>
 <td>
@@ -62,7 +61,7 @@
 
 
 </td></tr>
-<!--
+
 <tr><td>
 
 ### 🏢 Research Experience
@@ -77,8 +76,8 @@
   - **个人贡献**： 前沿性调研、模型搭建、代码实现
 
 </td></tr>
--->
 </table>
+-->
 
 
 <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
