@@ -20,6 +20,9 @@
     <a href="https://files.catbox.moe/e0rr6q.png"><img src="https://img.shields.io/badge/WeChat-微信-07c160" /></a>&emsp;
     <!-- visitor -->
     <a href="https://files.catbox.moe/nr64d9.png"><img src="https://img.shields.io/badge/RED-%E5%B0%8F%E7%BA%A2%E4%B9%A6-red" /></a>&emsp;
+    <a href="https://gongzihang.github.io/BLOG/">
+      <img src="https://img.shields.io/badge/BLOG-%E5%8D%9A%E5%AE%A2-blueviolet?logo=github&logoColor=white" />
+    </a>&emsp;
     <img src="https://komarev.com/ghpvc/?username=gongzihang&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
   </div>
 
