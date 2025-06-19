@@ -8,6 +8,9 @@
     <p align="center">
       <img src="https://readme-typing-svg.vercel.app/?lines=🎉 欢迎你来到我的Github主页!;✨ 欢迎逛逛我的Blog; 🌟 祝您天天愉快！&center=true&vCenter=true&speed=50&pause=1500&color=F779A1&size=28&font=Source+Code+Pro" />
     </p>
+    <h1 align="center">✨ 欢迎来到我的Github主页 ✨</h1>
+    <p align="center"> 可以逛逛我的Blog🌟  |  祝你天天开心 🌈</p>
+    <hr />
   </div>
 
   <!-- knock code pictures 敲代码的图片 -->
