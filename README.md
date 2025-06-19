@@ -5,6 +5,9 @@
     <a>
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);祝您天天愉快!&center=true&size=27" />
     </a>
+    <p align="center">
+      <img src="https://readme-typing-svg.vercel.app/?lines=🎉 欢迎你来到我的Github主页!;✨ 欢迎逛逛我的Blog; 🌟 祝您天天愉快！&center=true&vCenter=true&speed=50&pause=1500&color=F779A1&size=28&font=Source+Code+Pro" />
+    </p>
   </div>
 
   <!-- knock code pictures 敲代码的图片 -->
